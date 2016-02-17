@@ -1,0 +1,28 @@
+name: elhombrearnuncio
+favicon: null
+layout_spectrum: 0.7125536072999239
+typography_spectrum: 0.2792271568905562
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.39635395514778793
+  lightness: 0.5274349225219339
+  saturation: 0.6569683314301074
+  rhythmicContrast: 0.9080232963897288
+purpose: []
