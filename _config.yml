@@ -1,6 +1,6 @@
 name: elhombrearnuncio
 favicon: null
-layout_spectrum: 0.00086
+layout_spectrum: 0.00089
 typography_spectrum: 0.49734
 title: null
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6b6b5a'
     - '#94948b'
   brandStrength: 0.1875
-  lightness: 0.0625
+  lightness: 0
   saturation: 1
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
